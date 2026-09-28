@@ -5,7 +5,7 @@
 <ul>
   <li>💼 <strong>Current Role:</strong> Data Engineering Consultant at The Information Lab.</li>
   <li>📍 <strong>Based in:</strong> London, UK.</li>
-  <li>📚 <strong>Currently learning:</strong> studying for dbt Developer certificate.</li>
+  <li>📚 <strong>Currently learning:</strong> studying to take Snowflake SnowPro certification.</li>
 </ul>
 
 <p>
@@ -72,14 +72,17 @@
 
 | Area of Expertise         | Tools & Technologies |
 | :------------------------ | :------------------- |
-| **Data Engineering**      | Snowflake, dbt, AWS  |
-| **Data Visualization**    | Tableau, Power BI    |
-| **Programming Languages** | Python, SQL, Git     |
-
+| **Data Platforms**        | dbt, Snowflake, Google BigQuery, Google Cloud Platform, AWS (S3, EC2, Lambda), MS SQL Server, Airbyte |
+| **Languages** | Python, SQL, Jinja, YAML |
+| **Dev & Workflow** | GitHub, GitLab, CI/CD, Agile, Docker, Kestra, VS Code, AI Skills Code-Review Pipelines |
+| **BI & Analytics**    | Tableau (Certified), Power BI(Certified), Alteryx(Certified), Microstrategy |
 
 ## 🏅 Certification Badges
 
 <p align="left">
+  <a href="https://credentials.getdbt.com/af0766bf-7415-4e27-ba82-3a7dffea6b0a#acc.cLm1blay" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8290a8c0-e6ef-4d8a-9d38-1ba860e82129" alt="Tableau" width="40" height="40" style="margin-right: 10px;" />
+  </a>
   <a href="https://www.credly.com/badges/e93f9856-bec5-4350-9a46-82271d46e01d/embedded" target="_blank">
     <img src="https://github.com/user-attachments/assets/0530ae85-3541-46fb-b98b-eb3e1e46d140" alt="Tableau" width="40" height="40" style="margin-right: 10px;" />
   </a>
